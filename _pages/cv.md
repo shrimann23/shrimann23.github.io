@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Here is a link to the most recent version of my resume:
+[2024 RESUME](https://drive.google.com/file/d/10g_fg_6t_uVtPl4-4MoweeLgPw45doLZ/view)
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
