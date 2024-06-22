@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "About Me"
-permalink: /about/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hello! Welcome to my web page. 
