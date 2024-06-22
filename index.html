@@ -51,7 +51,8 @@
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
-<div class="masthead">
+
+  <div class="masthead">
     <div class="masthead__inner-wrap">
         <div class="masthead__menu">
             <nav id="site-nav" class="greedy-nav">
@@ -81,4 +82,21 @@
             <div class="author__urls-wrapper">
                 <button class="btn btn--inverse">Follow</button>
                 <ul class="author__urls social-icons">
-                    <li class="author__desktop"><i class="fa
+                    <li class="author__url"><a href="https://github.com/shrimann23" aria-label="GitHub"><i class="fa fa-github"></i></a></li>
+                    <li class="author__url"><a href="https://www.linkedin.com/in/shrimayee-narasimhan/" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <h2>About Me</h2>
+        <p>Hello! Welcome to my web page.</p>
+        <p>I'm Shrimayee, a second-year undergraduate student majoring in computer science at UW Seattle. I am fascinated by computer science's applications to the environment and global health. In particular, I am interested in utilizing machine learning and geographic information systems (GIS) to tackle international challenges. Beyond my technical experience, I am skilled in outreach, leading large groups, and collaborating with those of diverse backgrounds.</p>
+        <p>Apart from school, I enjoy playing the violin, snacking, and hiking with friends and family!</p>
+    </div>
+</div>
+<footer>
+    <p>&copy; {{ site.time | date: "%Y" }} Shrimayee Narasimhan</p>
+</footer>
+</body>
+</html>
