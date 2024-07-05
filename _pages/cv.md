@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to the most recent version of my resume:
-[2024 RESUME](https://drive.google.com/file/d/10g_fg_6t_uVtPl4-4MoweeLgPw45doLZ/view)
+Please contact me at shrimnn8@cs.washington.edu if you would like to view my resume!
+
+<!-- Here is a link to the most recent version of my resume:
+[2024 RESUME](https://drive.google.com/file/d/10g_fg_6t_uVtPl4-4MoweeLgPw45doLZ/view) -->
 
 <!-- Education
 ======
